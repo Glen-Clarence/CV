@@ -47,7 +47,7 @@ I love learning. I love learning so much I taught myself how to code. In the pro
 
 <br><br>
 
-# :sweat_drops: Skills
+# :fire: Skills
 + **HTML** : 80%
 + **CSS** : 75%
 + **JavaScript** : 45%
