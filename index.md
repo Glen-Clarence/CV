@@ -14,7 +14,7 @@ I love learning. I love learning so much I taught myself how to code. In the pro
 
 + :email: Email: [glenclarence007@gmail.com](mailto:glenclarence007@gmail.com)
 + :computer: Website: [https://glen-warrangal.netlify.app/](https://glen-warrangal.netlify.app/)
-+ :construction: Github: [https://github.com/LukeSmithxyz](https://github.com/LukeSmithxyz)
++ :construction: Github: [https://github.com/](#)
 
 <br><br>
 
