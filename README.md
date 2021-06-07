@@ -69,7 +69,7 @@ I also Learn by doing websites from Front-end Mentor which is great platform to 
 
 <br><br>
 # GitHub Stats
-[![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glen-Clarence&hide=stars,prs,issues)](https://github.com/Glen-Clarence/github-readme-stats)
+[![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glen-Clarence&hide=stars,prs,issues&theme=radical)](https://github.com/Glen-Clarence/github-readme-stats)
 <br><br>
 # Languages 
 + **English**: Native
