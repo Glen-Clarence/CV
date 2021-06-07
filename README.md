@@ -19,20 +19,20 @@ I also Learn by doing websites from Front-end Mentor which is great platform to 
 
 # Institutions
 
-+ ### AGM Rural college of engineering and Technlogy.   (electronics and communication) 2017--21
-+ ### Fatima Pre-University college of science.(science) 2013--2015
-+ ### St Mary's high school. 2004--2015
++ ### AGM Rural college of engineering and Technlogy. (electronics and communication) |2017 - 2021|
++ ### Fatima Pre-University college of Science. (science) |2013 - 2015|
++ ### St Mary's high school. |2004 - 2015|
 
 <br><br>
 # Internships
 
-+ ### Embedded systemsinovaskill technologies |Aug 2020 - Sep 2020|
++ ### Embedded Systems Inovaskill technologies |Aug 2020 - Sep 2020|
 
 <br><br>
 
 # Trainings & Certification
 
-+ ### Tntershala 
++ ### Intershala 
   + Web Development |Aug-2020|
   + Created beginner websites
   + learned to implement Html Css to create dynamic web content
