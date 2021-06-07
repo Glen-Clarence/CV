@@ -4,7 +4,7 @@
 
 You're looking at a document that doubles as a .pdf CV and a html webpage. However you're viewing this, welcome! A lot of relevant information about me is here.
 
-I love learning. I love learning so much I taught myself how to code. In the process I learned to build dynamic web applications and static web sites. my training history certainly shows my support for diversity and importance of education. Now I am willing to bring together my esoteric career into one coherent whole, using all facets of my eclectic life.
+I love learning. I love learning so much I taught myself how to code. In the process I learned to build dynamic web applications and static web sites. My training history certainly shows my support for diversity and importance of education. Now I am willing to bring together my esoteric career into one coherent whole, using all facets of my eclectic life.
 
 I also Learn by doing websites from Front-end Mentor which is great platform to get experience, I am currently in my Final Year Engineering In Electronics and communication Branch
 
